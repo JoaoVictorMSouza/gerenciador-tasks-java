@@ -1,0 +1,16 @@
+.options-header {
+    width: 150px; 
+    height: 70px;
+    border-radius: 25px;
+    display: none;
+    position: absolute;
+    right: 1.3rem;
+}
+
+#username:hover .options-header {
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 1px solid #000;
+}
