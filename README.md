@@ -1,6 +1,5 @@
 # Gerenciador de Tarefas - Java Servlet e JSP
 
-![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Desenvolvimento-yellow)
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Servlet](https://img.shields.io/badge/Servlet-3.0-orange)
 ![JSP](https://img.shields.io/badge/JSP-2.3-ff69b4)
